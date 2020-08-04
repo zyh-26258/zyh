@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21eafbee-0ae0-4503-9c74-fb875ae47424" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Program Files/maven_work/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\Program Files\maven_work\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8.0_172" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1ewRM24Qs8bnF7NvGGmOIVOb2mY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_172" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Java Scratch" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ui.Test01" />
+      <module name="学生管理系统" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="com.ui.UI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21eafbee-0ae0-4503-9c74-fb875ae47424" name="默认更改列表" comment="" />
+      <created>1595230616745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595230616745</updated>
+      <workItem from="1595230618230" duration="637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="0" width="593" height="680" key="#Test01" timestamp="1595231255448">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" width="593" height="680" key="#Test01/0.0.1280.680@0.0.1280.680" timestamp="1595231255448" />
+    <state x="348" y="0" width="598" height="680" key="#Unnamed" timestamp="1595230839442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="0" width="598" height="680" key="#Unnamed/0.0.1280.680@0.0.1280.680" timestamp="1595230839442" />
+    <state x="64" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595231242991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="64" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595231242991" />
+    <state x="371" y="123" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595231081455">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="123" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1595231081455" />
+    <state x="492" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595230781364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1595230781364" />
+    <state x="348" y="0" width="598" height="680" key="#学生管理系统" timestamp="1595230887263">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="0" width="598" height="680" key="#学生管理系统/0.0.1280.680@0.0.1280.680" timestamp="1595230887263" />
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1595230672949">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595230672949" />
+  </component>
+</project>
